@@ -1,2 +1,6 @@
-index.html
-lolbeans.svg
+GitHub
+ ↓
+lolbeans
+ ↓
+index.html  ← Webページ
+lolbeans.svg ← CanvaのSVG
