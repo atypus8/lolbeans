@@ -1,13 +1,10 @@
-# PSM Website
-
-PSMの公式サイトです。
-
-## メンバー
-
-- Member 1
-- Member 2
-
-## Website
-
-サイトはこちら：
-https://example.com
+psm-site/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    ├── logo.png
+    ├── member1.png
+    ├── member2.png
+    └── ...
+    
