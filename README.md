@@ -1,2 +1,2 @@
-✅ index.html
-✅ lolbeans.svg
+index.html
+lolbeans.svg
